@@ -20,10 +20,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@yethijnair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vishakh_abhayan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Yethi Jalajananan Nair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishakh abhayan" height="30" width="40" /></a>
-<a href="https://instagram.com/yethi_nair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_vishakh0" height="30" width="40" /></a>
-<a href="https://discord.gg/Mr_Nair#6349" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Vishakh Abhayan#4955" height="30" width="40" /></a>
+<a href="https://twitter.com/@yethijnair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@yethijnair" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yethi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yethi J Nair" height="30" width="40" /></a>
+<a href="https://instagram.com/yethi_nair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yethi_nair" height="30" width="40" /></a>
+<a href="https://discord.gg/Mr_Nair#6349" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mr_Nair#6349" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
