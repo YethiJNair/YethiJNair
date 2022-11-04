@@ -32,7 +32,7 @@
 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/90142173/154796318-e529fdc7-2132-4ce7-8417-06b71cf02506.svg)
 
-<b>My GitHub Stats</b>
+<b>My GitHub Stats </b>
 
 <a href="https://github.com/">YehtiJNair<img src="https://github-readme-stats.vercel.app/api?username=YethiJNair&show_icons=true&hide=&count_private=true&title_color=7f08b2&text_color=ffffff&icon_color=7f08b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mhdyaseen8841's GitHub stats" /></a>
 
